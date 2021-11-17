@@ -13,6 +13,7 @@
 		780C4CB227438DBC00DF1904 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 780C4CB027438DBC00DF1904 /* Main.storyboard */; };
 		780C4CB427438DBD00DF1904 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 780C4CB327438DBD00DF1904 /* Assets.xcassets */; };
 		780C4CB727438DBD00DF1904 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 780C4CB527438DBD00DF1904 /* LaunchScreen.storyboard */; };
+		780C4CBF2743934000DF1904 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780C4CBE2743934000DF1904 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		780C4CB327438DBD00DF1904 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		780C4CB627438DBD00DF1904 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		780C4CB827438DBD00DF1904 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		780C4CBE2743934000DF1904 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				780C4CB327438DBD00DF1904 /* Assets.xcassets */,
 				780C4CB527438DBD00DF1904 /* LaunchScreen.storyboard */,
 				780C4CB827438DBD00DF1904 /* Info.plist */,
+				780C4CBE2743934000DF1904 /* SettingViewController.swift */,
 			);
 			path = LEDBoard;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				780C4CAF27438DBC00DF1904 /* ViewController.swift in Sources */,
 				780C4CAB27438DBC00DF1904 /* AppDelegate.swift in Sources */,
 				780C4CAD27438DBC00DF1904 /* SceneDelegate.swift in Sources */,
+				780C4CBF2743934000DF1904 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
