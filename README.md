@@ -1,5 +1,5 @@
 #LEDBoard
-![LEDBoard](https://user-images.githubusercontent.com/54833831/144189387-676f4f32-33d1-4995-ab75-a6fb6df73d9a.gif)
+![LEDBoard](https://user-images.githubusercontent.com/54833831/144190435-41b03c70-89b6-4f04-a35d-fe7903ad6460.gif)
 
 ##사용기술
 > UINavigationController
