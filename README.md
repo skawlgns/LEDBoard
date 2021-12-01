@@ -7,7 +7,7 @@
 + UINavigationController
  
 + 화면전환
-  + Segueway
+  + Segueway  
 
 + ViewController LifeCycle
   + viewDidLoad -> viewWillAppear -> viewDidAppear -> viewWillDisappear -> viewDidDisappear
